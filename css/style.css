@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face { 
+    font-family: "Chivo Mono", monospace;
+    src: url("../font/Chivo_Mono/ChivoMono-VariableFont_wght.ttf"); 
+}
+.prim-container h1, p, button, h2{
+    font-family: "Chivo Mono", monospace;
+}
+.div-navbar{
+    background-color: #e49889;
+    font-family: "Chivo Mono", monospace;
+}
+.prim-container{
+    background-color: #F4EBDA;
+}
+.botao1{
+    background-color: #190931;
+    border-radius: 5px;
+    color: white;
+    padding: 8px;
+    border: none;
+}
+.titulo1, small{
+    font-size: 60px;
+}
+small{
+    color: #E49889 ;
+}
+.paragrafo1{
+    font-size: 30px;
+    border-bottom: 5px solid #E49889;
+    width: 180px;
+}
+.seg-container{
+    background-color: #F5D2BB;
+    color: #190931;
+}
+.h2-sobre{
+    font-size: 48px;
+}

@@ -7,7 +7,7 @@
     font-family: "Chivo Mono", monospace;
     src: url("../font/Chivo_Mono/ChivoMono-VariableFont_wght.ttf"); 
 }
-.prim-container h1, p, button, h2{
+.titulo1, p, button{
     font-family: "Chivo Mono", monospace;
 }
 .div-navbar{
@@ -41,4 +41,8 @@ small{
 }
 .h2-sobre{
     font-size: 48px;
+    font-family: "Chivo Mono", monospace;
+}
+.terc-container{
+    background-color: #F4EBDA;
 }
